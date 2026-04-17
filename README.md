@@ -1,3 +1,19 @@
+Linear Regression → predicts continuous value using linear equation
+Multiple Regression → same but multiple inputs
+Logistic Regression → classification using sigmoid (0–1 output)
+KNN → predicts using nearest neighbors
+SVM → finds best separating boundary
+Decision Tree → rule-based splitting model
+Random Forest → many trees → voting
+Naive Bayes → probability-based classifier
+KMeans → cluster numeric data
+K-Modes → cluster categorical data
+PCA → reduce dimensions
+AdaBoost → focuses on wrong predictions
+XGBoost → optimized boosting (high accuracy)
+SOM → maps high-dim data to 2D
+Q-Learning → learns using rewards
+
 🔵 1. KNN (K-Nearest Neighbors)
 🧠 Idea
 
