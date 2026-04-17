@@ -1,3 +1,163 @@
+🔵 1. KNN (K-Nearest Neighbors)
+🧠 Idea
+
+👉 “Similar things are nearby”
+
+Use
+Classification (mostly)
+Simple problems
+Example
+
+Predict if a fruit is apple/orange based on nearest points
+
+⚠️ When to use
+Small dataset
+Simple decision boundary
+❌ Avoid when
+Large dataset (slow)
+🟣 2. SVM (Support Vector Machine)
+🧠 Idea
+
+👉 Best boundary between classes
+
+Use
+High accuracy classification
+Works well in complex spaces
+Example
+
+Cancer detection
+
+⚠️ When to use
+Clear margin between classes
+🌳 3. Random Forest
+🧠 Idea
+
+👉 Many decision trees → voting
+
+Use
+Almost any classification problem
+Very reliable
+Example
+
+Fraud detection
+
+🔥 Why good?
+Reduces overfitting
+⚡ 4. AdaBoost
+🧠 Idea
+
+👉 Focus on mistakes
+
+Each new model:
+
+pays more attention to wrong predictions
+Use
+Improve weak models
+⚠️ When to use
+Moderate datasets
+⚡ 5. XGBoost
+🧠 Idea
+
+👉 Advanced boosting (fast + powerful)
+
+Use
+Competitions
+High accuracy tasks
+🔥 Why popular?
+Speed + performance
+🔴 6. Perceptron (Single & Multilayer)
+🧠 Idea
+
+👉 Basic neural network
+
+Single:
+
+simple linear decision
+
+Multi-layer:
+
+can learn complex patterns
+Use
+Deep learning basics
+Example
+
+Digit recognition
+
+🟡 7. K-Means
+🧠 Idea
+
+👉 Group similar data
+
+Use
+Customer segmentation
+Clustering
+Example
+
+Group users into spending categories
+
+🟠 8. K-Modes
+🧠 Idea
+
+👉 Like K-Means but for categorical data
+
+Example
+Gender, city, job type
+⚠️ When to use
+Data is NOT numeric
+🟣 9. PCA (Principal Component Analysis)
+🧠 Idea
+
+👉 Reduce number of features
+
+Use
+Speed up model
+Visualization
+Example
+
+100 features → 2 features
+
+🟢 10. SOM (Self Organizing Map)
+🧠 Idea
+
+👉 Map high-dim → 2D grid
+
+Use
+Visualization
+Pattern discovery
+🎮 11. Q-Learning
+🧠 Idea
+
+👉 Learn via rewards
+
+Agent learns:
+
+best action in each state
+Example
+Game AI
+Robot navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. Linear Regression
 Idea:
 
